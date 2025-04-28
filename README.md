@@ -68,3 +68,11 @@ npx next dev
 
 - Emojis Handling: The method does not account for emojis in reviews.
 
+
+
+### Working of project:
+
+
+
+https://github.com/user-attachments/assets/d0d76571-75cd-4a7e-a1e6-9803a293c6e7
+
